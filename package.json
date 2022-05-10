@@ -9,25 +9,25 @@
     "lint:fix": "eslint . --ext .ts --fix"
   },
   "devDependencies": {
-    "@tweakpane/core": "^1.0.8",
+    "@tweakpane/core": "^1.0.9",
     "@types/events": "^3.0.0",
-    "@types/three": "^0.138.0",
-    "@typescript-eslint/eslint-plugin": "^5.13.0",
-    "@typescript-eslint/parser": "^5.13.0",
+    "@types/three": "^0.140.0",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
     "cannon-es-debugger": "^1.0.0",
-    "eslint": "^8.10.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint": "^8.15.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
-    "tweakpane": "^3.0.7",
-    "typescript": "^4.6.2",
-    "vite": "^2.8.6",
-    "vite-plugin-glsl": "^0.1.0"
+    "tweakpane": "^3.0.8",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.8",
+    "vite-plugin-glsl": "^0.1.2"
   },
   "dependencies": {
     "cannon-es": "^0.19.0",
     "events": "^3.3.0",
-    "three": "^0.138.3"
+    "three": "^0.140.2"
   }
 }
